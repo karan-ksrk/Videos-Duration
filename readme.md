@@ -3,4 +3,3 @@
 * python duration.py "folder name"  
 
 
-![](duration.png)
