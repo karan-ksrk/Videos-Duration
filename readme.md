@@ -1,6 +1,6 @@
 ﻿#  Find Duration of Videos in a folder
 ## Syntax  
-> python duration.py "folder name"  
+* python duration.py "folder name"  
 
 
 ![](duration.png)
