@@ -5,6 +5,7 @@ from tqdm import tqdm
 import time
 
 # covert seconds into time format
+a = 1
 def convert(seconds):
 	hours = seconds // 3600
 	seconds %= 3600
