@@ -4,6 +4,7 @@ from os.path import isfile, join
 from tqdm import tqdm
 import time
 
+# covert seconds into time format
 def convert(seconds):
 	hours = seconds // 3600
 	seconds %= 3600
